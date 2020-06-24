@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "462972955583",
+    "firebase_url": "https://online-inspiredactionltd.firebaseio.com",
+    "project_id": "online-inspiredactionltd",
+    "storage_bucket": "online-inspiredactionltd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462972955583:android:197ebe52b876eed5750f0a",
+        "android_client_info": {
+          "package_name": "online.inspiredactionlimited.inspireactionltdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462972955583-odhhgbv97uvf8lo0ls7qoe20bcknutcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.inspiredactionlimited.inspireactionltdapp",
+            "certificate_hash": "c11e17e97ffc4f178abaf680b528f7ffebb5fb52"
+          }
+        },
+        {
+          "client_id": "462972955583-h2835h504rr826kdgigpoa95qq439o8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtBdWptRxv0tr3v3z_QvDSBdNmBH11010"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462972955583-h2835h504rr826kdgigpoa95qq439o8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

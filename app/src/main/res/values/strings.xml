@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Inspire App</string>
+    <string name="btn_airtel">Call on Airtel</string>
+    <string name="btn_mtn">Call on MTN</string>
+    <string name="btn_appointment">Setup Appointment</string>
+    <string name="txt_body">Text us your shopping list: </string>
+    <string name="btn_SMS1">Send SMS</string>
+    <string name="btn_whatsapp"> Send Whatsapp</string>
+    <string name="btn_appiontment">Set an Appointment</string>
+    <string name="details">Inspired action limited company is a company licensed by Mbarara Municipal Council to carry out business in Research, Business Proposals, tenders and Contracts. We are a team of members coming together to provide great and affordable services to our clients.
+    Address: High Street Multi Cell - Mbarara District website: inspiredactionltd.online</string>
+</resources>
